@@ -8,3 +8,4 @@
 2. AWS Cloud Practitioner Essentials : 25 - Feb - 2023
 3. Getting Started with Cloud Acquisition : 26 - Feb - 2023
 4. AWS Billing and Cost Management : 26 - Feb - 2023
+5. AWS Well Architected = 27 - Feb - 2023
