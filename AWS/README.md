@@ -9,3 +9,4 @@
 3. Getting Started with Cloud Acquisition : 26 - Feb - 2023
 4. AWS Billing and Cost Management : 26 - Feb - 2023
 5. AWS Well Architected : 27 - Feb - 2023
+6. AWS Foundations: Getting Started with the AWS Cloud Essentials : 01 - March - 2023
